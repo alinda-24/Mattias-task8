@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-ZywjqvJlU0lnhN85EOBB5oz9.png?st=2024-11-06T07%3A37%3A16Z&se=2024-11-06T09%3A37%3A16Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T19%3A45%3A02Z&ske=2024-11-06T19%3A45%3A02Z&sks=b&skv=2024-08-04&sig=oPkWAcumJysqhKzEQTxxUxQThuH1Nmd0adlMlomAC%2BE%3D)
+
 # 🎨 Programming Task: Create Your Art Gallery Manager
 
 Welcome to your next programming challenge! In this task, you will bring together your skills in class design, file data handling, and creative programming to build an Art Gallery Manager. Your application will dynamically create art piece objects by reading data from files, manage the gallery operations, and give you the freedom to infuse creativity in the process. This task is both fun and useful, as it illustrates effective ways of organizing and managing data in a real-world scenario.
